@@ -1,0 +1,9 @@
+body{
+    text-align: center
+}
+.line{
+    width: 80px;
+    height: 5px;
+   background-color: blue;
+    margin:10px auto ;
+}
